@@ -2,16 +2,13 @@
 <h1 align="center">Hi 👋, I'm Aayush</h1>
 <h3 align="center">A Computer Science Engineer doing masters in Automation and Robotics.</h3>
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=justa3dobject" alt="justa3dobject" /></a> </p>
 
 <img align="right" width="400" height="300" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fmedia.giphy.com%2Fmedia%2FAt9KxVFySzjRm%2Fgiphy.gif&f=1&nofb=1&ipt=225ee30826e0da6464d8543de9dad99b3cbef78546f257ec38138f8faf77416a&ipo=images">
 
-- 🔭 I’m currently working on [AUV_Docking Simulator](https://github.com/JustA3DObject/JustAnother3DSimulator)
 
 - 🌱 I’m currently learning **Robot Dynamics and Controls, Computer Vision, Path Planning, Matlab, neural networking and AI/ML**
 
 
-- 👨‍💻 All of my projects are available at [JustAPortfolio](https://justa3dobject.github.io/JustAPortfolio.github.io/)
 
 - 💬 Ask me about **Python, DBMS, Robotics, Automation, Web Development.**
 
